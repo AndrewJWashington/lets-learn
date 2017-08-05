@@ -11,7 +11,7 @@ Follow these steps in order:
 * **Push** the changes to the remote repository (still on your branch)
 * Submit a **pull request** to merge your branch 'jake/master' with the root master 'master'
 
-Answer here: <replace with answer>
+Answer here: *replace with answer*
 
 This should take you about an hour or two. Call me if you have any questions.
 
